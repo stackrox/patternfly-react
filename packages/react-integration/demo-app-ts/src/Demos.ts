@@ -66,6 +66,11 @@ export const Demos: DemoInterface[] = [
     id: 'stackrox-network-graph-data-demo',
     name: 'StackRox Network Graph Data Demo',
     componentType: Examples.StackRoxNetworkGraphDataDemo
+  },
+  {
+    id: 'topology-edge-terminal-demo',
+    name: 'Topology Edge Terminal Demo',
+    componentType: Examples.TopologyEdgeTerminalDemo
   }
 ];
 
