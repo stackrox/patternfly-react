@@ -159,7 +159,7 @@ function transformData(data): Model {
     graph: {
       id: 'stackrox-active-graph',
       type: 'graph',
-      layout: 'Concentric'
+      layout: 'ColaGroups'
     },
     nodes: [],
     edges: []
