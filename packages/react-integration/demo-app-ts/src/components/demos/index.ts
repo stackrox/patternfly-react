@@ -2,6 +2,7 @@ export * from './TopologyDemo/TopologyDemo';
 export * from './TopologyDemo/TopologySidePanelDemo';
 export * from './TopologyDemo/TopologyDashedEdgesDemo';
 export * from './TopologyDemo/TopologyEdgeTerminalDemo';
+export * from './TopologyEdgeColorDemo/TopologyEdgeColorDemo';
 export * from './TopologySimpleGraphClassDemo/TopologySimpleGraphClassDemo';
 export * from './TopologySimpleGraphHooksDemo/TopologySimpleGraphHooksDemo';
 export * from './TopologyControlBarDemo/TopologyControlBarDemo';

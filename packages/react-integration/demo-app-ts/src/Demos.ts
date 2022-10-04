@@ -71,6 +71,11 @@ export const Demos: DemoInterface[] = [
     id: 'topology-edge-terminal-demo',
     name: 'Topology Edge Terminal Demo',
     componentType: Examples.TopologyEdgeTerminalDemo
+  },
+  {
+    id: 'topology-edge-color-demo',
+    name: 'Topology Edge Color Demo',
+    componentType: Examples.TopologyEdgeColorDemo
   }
 ];
 
