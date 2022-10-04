@@ -61,6 +61,11 @@ export const Demos: DemoInterface[] = [
     id: 'topology-label-svg-demo',
     name: 'Topology Label SVG Demo',
     componentType: Examples.TopologyLabelSVGDemo
+  },
+  {
+    id: 'stackrox-network-graph-data-demo',
+    name: 'StackRox Network Graph Data Demo',
+    componentType: Examples.StackRoxNetworkGraphDataDemo
   }
 ];
 
